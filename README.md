@@ -2,7 +2,7 @@
 ## Cloud builder · Automation enthusiast · Endlessly curious
 
 <p align="center">
-  <img src="https://github.com/pathakavani/pathakavani/blob/main/assets/uke.jpeg" alt="Avani Banner" width="100%" />
+  <img src="https://github.com/pathakavani/pathakavani/blob/main/assets/uke.png" alt="Avani Banner" width="100%" />
 </p>
 
 ---
