@@ -1,14 +1,9 @@
 # Hey, I'm Avani Pathak 👋
+## Cloud builder · Automation enthusiast · Endlessly curious
 
-- Cloud builder · Automation enthusiast · Endlessly curious  
-- Exploring the intersection of cloud infrastructure, ML workflows, and real-world automation.  
-- I like making things work — and making them work better.
-
----
-
-![Me = Music + Machines](https://github.com/pathakavani/pathakavani/blob/main/assets/uke.jpeg)
-
-
+<p align="center">
+  <img src="https://github.com/pathakavani/pathakavani/blob/main/assets/uke.jpeg" alt="Avani Banner" width="100%" />
+</p>
 
 ---
 
@@ -20,12 +15,12 @@
 
 ---
 
-## My Master's Project: Serverless ML Workflows At The Edge
+## My master's project: Serverless ML workflows at edge
 
 I spent the past year building a modular, serverless machine learning workflow system for edge devices like Jetson Orin and Coral TPU.
 
 This system:
-- Runs six end-to-end ML workflows (ETL, object detection, federated learning, ECG anomaly detection, MapReduce, and TTS)
+- Runs six end-to-end ML workflows (ETL, Object detection, Federated learning, ECG anomaly detection, MapReduce, and Text-to-speech)
 - Uses FastAPI-based microservices and Docker containers
 - Enables integrating GPU/TPU acceleration while preserving serverless abstractions
 
@@ -33,32 +28,21 @@ The goal is to let researchers deploy ML workflows efficiently, even in constrai
 
 ---
 
-## Automating Workflows At CCRC, UGA
+## Automating workflows At CCRC, UGA
 
 As part of my work at the Complex Carbohydrate Research Center (CCRC), I'm building automation tools for research and project lifecycle tracking.
 
-- Microsoft Power Automate for dynamic quote creation  
+- Microsoft Power Automate for dynamic quote creation
 - Forms and integrated pipelines for structured requests  
 - Microsoft Project for end-to-end project monitoring  
-
 The goal? Replace chaos with clarity, making life easier for researchers and admins alike.
 
----
-
-## Projects I've built
-
-- `fast_neural_style_transfer` – stylizes videos and images in real-time using Jetson Nano.
-- `DifferentiallyPrivateDeepLearning` – trained deep learning models with built-in privacy guarantees.
-- `rust_wikipedia_wrapper` – created a Rust CLI wrapper for easier MediaWiki API usage.
-- `uga_moviebooking_sys` – built a full-stack theater booking system with clean backend logic.
-- `facial_emotion_recognition` – used PyTorch to predict emotions from facial expressions.
-- `career_predictor` – made a Flask app that suggests career paths based on your preferences.
 ---
 
 ## Beyond The Terminal
 
 - Trained Hindustani classical vocalist (five levels completed)  
-- Always learning — Linux, automation, and machine learning were my early playgrounds  
+- Always learning - Linux, automation, and machine learning were my early playgrounds  
 - I occasionally write on [Medium](https://medium.com/@pathakavani10)
 
 ---
