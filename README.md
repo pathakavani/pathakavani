@@ -7,7 +7,7 @@
 
 ---
 
-## What I'm Exploring right now!
+## What I'm exploring right now!
 
 - Kubernetes and observability tools (Prometheus, Grafana, etc.)  
 - Advanced Terraform patterns and multi-cloud workflows (Azure and GCP)  
@@ -15,7 +15,7 @@
 
 ---
 
-## My master's project: Serverless ML workflows at edge
+## My master's project: Serverless machine learning workflows at edge
 
 I spent the past year building a modular, serverless machine learning workflow system for edge devices like Jetson Orin and Coral TPU.
 
@@ -24,7 +24,7 @@ This system:
 - Uses FastAPI-based microservices and Docker containers
 - Enables integrating GPU/TPU acceleration while preserving serverless abstractions
 
-The goal is to let researchers deploy ML workflows efficiently, even in constrained environments.  
+The goal was to let researchers deploy ML workflows efficiently, even in constrained environments.  
 
 ---
 
@@ -39,15 +39,15 @@ The goal? Replace chaos with clarity, making life easier for researchers and adm
 
 ---
 
-## Beyond The Terminal
+## Beyond the terminal
 
-- Trained Hindustani classical vocalist (five levels completed)  
-- Always learning - Linux, automation, and machine learning were my early playgrounds  
+- Trained hindustani classical vocalist (five levels completed)  
+- Always learning - linux, automation, and machine learning were my early playgrounds  
 - I occasionally write on [Medium](https://medium.com/@pathakavani10)
 
 ---
 
-## Let's Connect
+## Let's connect
 
 📧 pathakavani10@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/avani-pathak1)  
@@ -55,6 +55,6 @@ The goal? Replace chaos with clarity, making life easier for researchers and adm
 
 ---
 
-![Open Source](https://img.shields.io/badge/🛠-open--source-blue)
-![Always Learning](https://img.shields.io/badge/📚-always--learning-brightgreen)
-![Builder Spirit](https://img.shields.io/badge/🔧-builder--spirit-orange)
+![Open source](https://img.shields.io/badge/🛠-open--source-blue)
+![Always learning](https://img.shields.io/badge/📚-always--learning-brightgreen)
+![Builder spirit](https://img.shields.io/badge/🔧-builder--spirit-orange)
