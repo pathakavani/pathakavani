@@ -34,8 +34,9 @@ As part of my work at the Complex Carbohydrate Research Center (CCRC), I'm build
 
 - Microsoft Power Automate for dynamic quote creation
 - Forms and integrated pipelines for structured requests  
-- Microsoft Project for end-to-end project monitoring  
-The goal? Replace chaos with clarity, making life easier for researchers and admins alike.
+- Microsoft Project for end-to-end project monitoring
+  
+The goal was to replace chaos with clarity, making life easier for researchers and admins alike at CCRC.
 
 ---
 
