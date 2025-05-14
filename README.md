@@ -1,5 +1,5 @@
 # Hey, I'm Avani Pathak 👋
-## Cloud builder · Automation enthusiast · Endlessly curious
+## Cloud builder · Automation enthusiast · Curious
 
 <p align="center">
   <img src="https://github.com/pathakavani/pathakavani/blob/main/assets/uke.png" alt="Avani Banner" width="100%" />
@@ -42,8 +42,9 @@ The goal was to replace chaos with clarity, making life easier for researchers a
 
 ## Beyond the terminal
 
-- Trained hindustani classical vocalist (five levels completed)  
-- Always learning - linux, automation, and machine learning were my early playgrounds  
+- Trained hindustani classical vocalist (five levels completed), and LOVE playing ukulele!
+- Always up for a hike :D
+- Always learning - linux, automation, and machine learning were my early playgrounds
 - I occasionally write on [Medium](https://medium.com/@pathakavani10)
 
 ---
