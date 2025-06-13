@@ -1,5 +1,5 @@
-# Hey, I'm Avani Pathak 👋
-## Cloud builder · Automation enthusiast · Curious
+# Hello, I am Avani :)
+## Cloud builder · Automation enthusiast · Endlessly curious
 
 <p align="center">
   <img src="https://github.com/pathakavani/pathakavani/blob/main/assets/uke.png" alt="Avani Banner" width="100%" />
@@ -9,9 +9,11 @@
 
 ## What I'm exploring right now!
 
-- Kubernetes and observability tools (Prometheus, Grafana, etc.)  
+- Kubernetes and observability tools (Prometheus, Grafana, etc.)
+- AWS cloud certification
 - Advanced Terraform patterns and multi-cloud workflows (Azure and GCP)  
 - CI/CD, scalable monitoring, and production-ready infrastructure
+- AI agents integration
 
 ---
 
@@ -34,9 +36,8 @@ As part of my work at the Complex Carbohydrate Research Center (CCRC), I'm build
 
 - Microsoft Power Automate for dynamic quote creation
 - Forms and integrated pipelines for structured requests  
-- Microsoft Project for end-to-end project monitoring
-  
-The goal was to replace chaos with clarity, making life easier for researchers and admins alike at CCRC.
+- Microsoft Project for end-to-end project monitoring  
+The goal here was to replace chaos with clarity, making life easier for researchers and admins at CCRC.
 
 ---
 
@@ -51,7 +52,7 @@ The goal was to replace chaos with clarity, making life easier for researchers a
 
 ## Let's connect
 
-📧 pathakavani10@gmail.com  
+📧 pathakavani10@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/avani-pathak1)  
 📝 [Medium](https://medium.com/@pathakavani10)
 
