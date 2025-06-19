@@ -53,6 +53,7 @@ The goal here was to replace chaos with clarity, making life easier for research
 ## Let's connect
 
 📧 pathakavani10@gmail.com
+
 🔗 [LinkedIn](https://linkedin.com/in/avani-pathak1)  
 📝 [Medium](https://medium.com/@pathakavani10)
 
