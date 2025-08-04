@@ -9,11 +9,11 @@
 
 ## What I'm exploring right now!
 
-- Kubernetes and observability tools (Prometheus, Grafana, etc.)
+- Kubernetes and DevOps
 - AWS cloud certification
 - Advanced Terraform patterns and multi-cloud workflows (Azure and GCP)  
 - CI/CD, scalable monitoring, and production-ready infrastructure
-- AI agents integration
+- AI integration
 
 ---
 
