@@ -1,5 +1,5 @@
 # Hello, I am Avani :)
-## Cloud builder · MLOps · Automation enthusiast · Endlessly curious
+## Software engineer · Cloud builder · MLOps · Automation/Data enthusiast · Endlessly curious
 
 <p align="center">
   <img src="https://github.com/pathakavani/pathakavani/blob/main/assets/uke.png" alt="Avani Banner" width="100%" />
@@ -10,10 +10,10 @@
 ## What I'm exploring right now!
 
 - Kubernetes and DevOps
-- AWS cloud certification
 - Advanced Terraform patterns and multi-cloud workflows (Azure and GCP)  
 - CI/CD, scalable monitoring, and production-ready infrastructure
 - AI integration
+- Agentic AI, LLMs
 
 ---
 
