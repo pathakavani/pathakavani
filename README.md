@@ -1,5 +1,5 @@
 # Hello, I am Avani :)
-## Software engineer · Cloud builder · MLOps · Automation/Data enthusiast · Endlessly curious
+## Software engineer · MLOps · Automation/Data enthusiast · Endlessly curious
 
 <p align="center">
   <img src="https://github.com/pathakavani/pathakavani/blob/main/assets/uke.png" alt="Avani Banner" width="100%" />
